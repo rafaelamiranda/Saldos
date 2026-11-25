@@ -1,4 +1,4 @@
-# meus saldos
+# Saldos
 
 Controle financeiro pessoal: saldo diário projetado, totais do mês, tags, cartões, previsão de diário e horizonte de 12 meses.
 
